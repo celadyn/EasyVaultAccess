@@ -26,7 +26,7 @@ See [Resources] section below for some helpful links related to this Azure porti
 - Az powershell cmdlets installed (Install-Module Az -Scope AllUsers)
 - Azure Key Vault created 
 - Azure app registration created
-    - Azure app registration has the azure key vault delegated permissioa added
+    - Azure app registration has the azure key vault delegated permission added
     - Azure app registration has been granted consent for these permissions by an administrator
 - Azure Key Vault role-based access controls added the newly-created app registration to a role which will allow it to at minimum view secrets
 
